@@ -12,7 +12,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <p align="center">
   <a href="https://v-ac.github.io/HTML/" target="blank">
